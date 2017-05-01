@@ -3,7 +3,7 @@ speaker: 熊承彬
 url: https://github.com/swxy/ppt
 files: 
 transition: move
-theme: moon
+theme: dark
 usemathjax: yes
 
 [slide]
@@ -46,7 +46,7 @@ usemathjax: yes
 * 深入JavaScript，可以看[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)系列书籍
 * 了解JavaScript设计模式，推荐[JavaScript设计模式与开发实践](https://book.douban.com/subject/26382780/)
 * 了解DOM，BOM操作，以及各个浏览器实现的差异
-* 了解前端框架，像React，[Vue](https://github.com/youngwind/blog/labels/Vue)等
+* 了解前端框架，像React，Vue等
 * 订阅技术博客，像[fex 技术周刊](http://fex.baidu.com/weekly/), [淘宝FED](http://taobaofed.org/), [AlloyTeam](http://www.alloyteam.com/)，[奇舞团](https://75team.com/), [medium](https://medium.com/)等。
 
 [slide]
